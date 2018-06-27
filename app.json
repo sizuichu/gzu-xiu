@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/index/index",
+      "pages/daohang/daohang",
+
+    "pages/jianjie/jianjie"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#b20000",
+    "navigationBarTitleText": "贵州大学",
+    "navigationBarTextStyle": "white"
+  }
+}

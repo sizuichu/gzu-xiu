@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="container">
+  <image class='logo' src='http://gzu.weask.club/gzu-school/school-bj.png' style='height:{{height}}px'></image>
+
+  <navigator url="/pages/jianjie/jianjie?title=贵州大学简介" hover-class="navigator-hover"><view class='topo'>贵大\n简介</view></navigator>
+
+  <navigator url="/pages/daohang/daohang?title=贵州大学导览" hover-class="navigator-hover"><view class='topt'>游览\n贵大</view></navigator>
+
+</view>
